@@ -2,8 +2,8 @@ provider "random" {}
 
 variable "first_last_name" {
   default = {
-    "Jan" : "Janssen",
-    "Kees" : "Bakker"
+    "Jan" : "Jansen",
+    "Kees" : "Baker"
   }
 }
 
